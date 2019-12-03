@@ -11,6 +11,7 @@ namespace TheRealGitRepoTest
         static void Main(string[] args)
         {
             // The best of changes.
+            // No! This is the better change!
         }
     }
 }
